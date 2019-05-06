@@ -1,6 +1,6 @@
 # different data types
 # in the same variable
-x = 42
+x = 43
 print(x)
 print(type(x))
 
